@@ -1,16 +1,28 @@
-## Hi there 👋
+# About Me
 
-<!--
-**aysha8665/aysha8665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Aysha! 👋
 
-Here are some ideas to get you started:
+### 🌟 Introduction
+Certified Blockchain Developer with over two years of experience specializing in Solidity, smart contract development, security auditing, and Ethereum. I also have over four years of experience as a Software Developer, with a strong background in IT support engineering and over two years of experience in technical support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+- **Blockchain:** Solidity, Web3.js, Ethers.js, Hardhat, Truffle, Ganache, IPFS, Foundry
+- **Programming Languages:** Solidity, C#, Java, VBA
+- **Libraries/APIs:** Node.js, React, Next.js
+- **Technologies:** XML, JSON, CSS/XHTML, ASP.NET
+- **Development Environments and tools:** Visual Studio, Remix, Android Studio, Unity, Sublime Text
+- **Databases:** SQL Server, Access, Oracle, SQLite
+
+### 🌱 Currently Learning
+- Smart Contract Security and Auditing
+
+### 🌱 Currently working on
+- Using AI for Detecting Vulnerabilities in Solidity Smart Contracts
+
+### 💬 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/aysha-amin)
+- [Twitter](https://twitter.com/Aysha8665)
+
+### 📫 Contact Me
+Feel free to reach out to me at [aysha.a@zoho.com] for any collaboration opportunities!
+
