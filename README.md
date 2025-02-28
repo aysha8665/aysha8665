@@ -14,7 +14,8 @@ Certified Blockchain Developer with over two years of experience specializing in
 - **Databases:** SQL Server, Access, Oracle, SQLite
 
 ### 🌱 Currently Learning
-- Smart Contract Security and Auditing
+- Smart Contract Security and Auditing 
+[Audit History](https://github.com/0xLuckyLuke).
 
 ### 🌱 Currently working on
 - Using AI for Detecting Vulnerabilities in Solidity Smart Contracts
