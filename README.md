@@ -14,17 +14,12 @@ Certified Blockchain Developer with over two years of experience specializing in
 - **Databases:** SQL Server, Access, Oracle, SQLite
 
 ### 🌱 Currently Learning
-- Smart Contract Security and Auditing 
+- Smart Contract Security and Auditing
+
+## Private Audit History
 [Audit History](https://github.com/0xLuckyLuke).
 
 # My Audit History & Credentials
-
-## Private Audit History
-
-| Date | Project | Type | Severity Found | Status |
-|------|---------|------|----------------|---------|
-| Jan 2024 | Puffer | Vault | 1 High, 5 Low, 15 Informational  | [Completed](https://github.com/0xLuckyLuke/pufETH/blob/main/audits/0xLuckyLuke-pufETH-v1.pdf) |
-
 
 ## Public Contest Performance
 
