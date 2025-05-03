@@ -17,7 +17,7 @@ Certified Blockchain Developer with over two years of experience specializing in
 - Smart Contract Security and Auditing
 
 ## Private Audit History
-[Audit History](https://github.com/0xLuckyLuke).
+[Audit History - 0xLuckyLuke Github](https://github.com/0xLuckyLuke).
 
 # My Audit History & Credentials
 
@@ -70,23 +70,16 @@ Certified Blockchain Developer with over two years of experience specializing in
 
 | Category | Count |
 |----------|-------|
-| Critical Findings | 12 |
-| High Severity | 24 |
-| Medium Severity | 31 |
-| Total Value Secured | $15M+ |
-| Total Bounties Earned | 250 ETH |
+| Critical | - |
+| High | 5 |
+| Medium | 4 |
+| Low | 15 |
+| Gas optimization | 6 |
+| Informational | 2 |
+| Total findings | 32 |
 
 ## Platform Accounts
-
-### Main Platforms
-- Code4rena: [@0xLuckyLuke](https://code4rena.com/@0xLuckyLuke)
-- Cantina: [@hermit](https://cantina.xyz/u/hermit)
-- codehawks: [@0xluckyluke](https://profiles.cyfrin.io/u/0xluckyluke)
-
-### Communication
-- Twitter: [[0xLuckyLuke](https://x.com/0xLuckyLuke)]
-- Email: 0xLuckyLuke@proton.me
-- Discord: @0xLuckyLuke
+Sherlock: [@aysha](https://audits.sherlock.xyz/watson/aysha)
 
 ### 🌱 Currently working on
 - Using AI for Detecting Vulnerabilities in Solidity Smart Contracts
