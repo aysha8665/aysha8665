@@ -33,6 +33,11 @@ Certified Blockchain Developer with over two years of experience specializing in
 
 | Contest | Date | Ranking | Findings | Prize | Links |
 |---------|------|---------|----------|-------|-------|
+| Hawk High | May 2025 | - | 3 High | - $ |  [1](https://codehawks.cyfrin.io/c/2025-05-hawk-high/s/20), [2](https://codehawks.cyfrin.io/c/2025-05-hawk-high/s/30), [3](https://codehawks.cyfrin.io/c/2025-05-hawk-high/s/32) |
+| Hawk High | May 2025 | - | 1 Medium | - $ |  [1](https://codehawks.cyfrin.io/c/2025-05-hawk-high/s/113) |
+| Hawk High | May 2025 | - | 1 Low | - $ |  [1](https://codehawks.cyfrin.io/c/2025-05-hawk-high/s/21) |
+| Core Contracts | Feb 2025 | - | 3 High | - $ |  [1](https://codehawks.cyfrin.io/c/2025-02-raac/s/4947), [2](https://codehawks.cyfrin.io/c/2025-02-raac/s/5182), [3](https://codehawks.cyfrin.io/c/2025-02-raac/s/5426) |
+| Core Contracts | Feb 2025 | - | 1 Medium | - $ |  [1](https://codehawks.cyfrin.io/c/2025-02-raac/s/5820) |
 | Rock Paper Scissors | Apr 2025 | - | 1 Low | - $ |  [1](https://codehawks.cyfrin.io/c/2025-04-rock-paper-scissors/s/35) |
 | Eggstravaganza | Apr 2025 | - | 2 High | - $ |  [1](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/s/120), [2](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/s/122) |
 | Eggstravaganza | Apr 2025 | - | 1 Medium | - $ |  [1](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/s/124) |
@@ -71,12 +76,12 @@ Certified Blockchain Developer with over two years of experience specializing in
 | Category | Count |
 |----------|-------|
 | Critical | - |
-| High | 5 |
-| Medium | 4 |
-| Low | 15 |
+| High | 11 |
+| Medium | 6 |
+| Low | 16 |
 | Gas optimization | 6 |
 | Informational | 2 |
-| Total findings | 32 |
+| Total findings | 41 |
 
 ## Platform Accounts
 Sherlock: [@aysha](https://audits.sherlock.xyz/watson/aysha)
