@@ -33,19 +33,19 @@ Certified Blockchain Developer with over two years of experience specializing in
 
 | Contest | Date | Ranking | Findings | Prize | Links |
 |---------|------|---------|----------|-------|-------|
-| Hawk High | May 2025 | - | 3 High | - $ |  [1](https://codehawks.cyfrin.io/c/2025-05-hawk-high/s/20), [2](https://codehawks.cyfrin.io/c/2025-05-hawk-high/s/30), [3](https://codehawks.cyfrin.io/c/2025-05-hawk-high/s/32) |
-| Hawk High | May 2025 | - | 1 Medium | - $ |  [1](https://codehawks.cyfrin.io/c/2025-05-hawk-high/s/113) |
-| Hawk High | May 2025 | - | 1 Low | - $ |  [1](https://codehawks.cyfrin.io/c/2025-05-hawk-high/s/21) |
-| Core Contracts | Feb 2025 | - | 3 High | - $ |  [1](https://codehawks.cyfrin.io/c/2025-02-raac/s/4947), [2](https://codehawks.cyfrin.io/c/2025-02-raac/s/5182), [3](https://codehawks.cyfrin.io/c/2025-02-raac/s/5426) |
-| Core Contracts | Feb 2025 | - | 1 Medium | - $ |  [1](https://codehawks.cyfrin.io/c/2025-02-raac/s/5820) |
-| Rock Paper Scissors | Apr 2025 | - | 1 Low | - $ |  [1](https://codehawks.cyfrin.io/c/2025-04-rock-paper-scissors/s/35) |
-| Eggstravaganza | Apr 2025 | - | 2 High | - $ |  [1](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/s/120), [2](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/s/122) |
-| Eggstravaganza | Apr 2025 | - | 1 Medium | - $ |  [1](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/s/124) |
-| RustFund | Apr 2025 | - | 2 High | - $ |  [1](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/23), [2](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/25) |
-| RustFund | Apr 2025 | - | 2 Medium | - $ |  [1](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/26) ,[2](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/30)  |
-| RustFund | Apr 2025 | - | 1 Low | - $ |  [1](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/27)  |
-| MorpheusAI | Feb 2024 | - | 1 Low | - $ |  [1](https://codehawks.cyfrin.io/c/2024-01-Morpheus/s/425) |
-| The Standard | Jan 2024 | - | 1 High | - $ |  [1](https://codehawks.cyfrin.io/c/2023-12-the-standard/s/1236) |
+| Hawk High | May 2025 | - | 3 High | EXP |  [1](https://codehawks.cyfrin.io/c/2025-05-hawk-high/s/20), [2](https://codehawks.cyfrin.io/c/2025-05-hawk-high/s/30), [3](https://codehawks.cyfrin.io/c/2025-05-hawk-high/s/32) |
+| Hawk High | May 2025 | - | 1 Medium | EXP |  [1](https://codehawks.cyfrin.io/c/2025-05-hawk-high/s/113) |
+| Hawk High | May 2025 | - | 1 Low | EXP |  [1](https://codehawks.cyfrin.io/c/2025-05-hawk-high/s/21) |
+| Core Contracts | Feb 2025 | - | 3 High | USDC |  [1](https://codehawks.cyfrin.io/c/2025-02-raac/s/4947), [2](https://codehawks.cyfrin.io/c/2025-02-raac/s/5182), [3](https://codehawks.cyfrin.io/c/2025-02-raac/s/5426) |
+| Core Contracts | Feb 2025 | - | 1 Medium | USDC |  [1](https://codehawks.cyfrin.io/c/2025-02-raac/s/5820) |
+| Rock Paper Scissors | Apr 2025 | - | 1 Low | EXP |  [1](https://codehawks.cyfrin.io/c/2025-04-rock-paper-scissors/s/35) |
+| Eggstravaganza | Apr 2025 | - | 2 High | EXP |  [1](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/s/120), [2](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/s/122) |
+| Eggstravaganza | Apr 2025 | - | 1 Medium | EXP |  [1](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/s/124) |
+| RustFund | Apr 2025 | - | 2 High | EXP |  [1](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/23), [2](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/25) |
+| RustFund | Apr 2025 | - | 2 Medium | EXP |  [1](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/26) ,[2](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/30)  |
+| RustFund | Apr 2025 | - | 1 Low | EXP |  [1](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/27)  |
+| MorpheusAI | Feb 2024 | - | 1 Low | USDC |  [1](https://codehawks.cyfrin.io/c/2024-01-Morpheus/s/425) |
+| The Standard | Jan 2024 | - | 1 High | USDC |  [1](https://codehawks.cyfrin.io/c/2023-12-the-standard/s/1236) |
 
 ### code4rena Contests
 
