@@ -22,7 +22,7 @@ Certified Blockchain Developer with over two years of experience specializing in
 # My Audit History & Credentials
 
 ## Public Contest Performance
-
+[Audit History - Public Contest](https://audits.sherlock.xyz/watson/aysha).
 ### Cantina Contests
 
 | Contest | Date | Ranking | Findings | Prize | Links |
